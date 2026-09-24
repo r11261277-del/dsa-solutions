@@ -8,9 +8,9 @@
 ---
 
 ## Performance Statistics
-- **Language:** Python 3
-- **Runtime:** 202msBeats84.37%Memory277.14MBBeats80.46% 
-- **Memory:** Runtime202msBeats84.37%Memory277.14MBBeats80.46% 
+- **Language:** java
+- **Runtime:** N/A 
+- **Memory:** N/A 
 
 ---
 
