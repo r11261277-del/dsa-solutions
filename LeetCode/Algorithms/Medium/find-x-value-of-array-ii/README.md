@@ -1,9 +1,9 @@
-# -
+# 271
 
 **Platform:** LeetCode  
 **Category:** Algorithms  
 **Difficulty:** Medium  
-**Original Problem Link:** [-](https://leetcode.com/problems/find-x-value-of-array-ii/)
+**Original Problem Link:** [271](https://leetcode.com/problems/find-x-value-of-array-ii/)
 
 ---
 
@@ -15,7 +15,7 @@
 ---
 
 ## Problem Description
-Problem statement: -
+Problem statement: 271
 
 ---
 *Auto-committed via [GitDSA Extension](https://github.com)*
