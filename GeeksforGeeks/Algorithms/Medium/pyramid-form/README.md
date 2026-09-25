@@ -9,8 +9,8 @@
 
 ## Solutions
 
-### [solution1.ava](./solution1.ava)
-- **Language:** Java
+### [solution1.pp](./solution1.pp)
+- **Language:** C++
 - **Runtime:** N/A 
 - **Memory:** N/A 
 
