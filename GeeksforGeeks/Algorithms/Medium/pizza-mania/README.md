@@ -1,15 +1,15 @@
-# Minimum Cost Pizza Selection
+# Minimum Cost Pizza  SelectionSolved
 
 **Platform:** GeeksforGeeks  
 **Category:** Algorithms  
 **Difficulty:** Medium  
-**Original Problem Link:** [Minimum Cost Pizza Selection](https://www.geeksforgeeks.org/problems/pizza-mania0155/1)
+**Original Problem Link:** [Minimum Cost Pizza  SelectionSolved](https://www.geeksforgeeks.org/problems/pizza-mania0155/1)
 
 ---
 
 ## Solutions
 
-### [solution1.ava](./solution1.ava)
+### [solution2.ava](./solution2.ava)
 - **Language:** Java
 - **Runtime:** N/A 
 - **Memory:** N/A 
@@ -17,7 +17,7 @@
 ---
 
 ## Problem Description
-Problem statement: Minimum Cost Pizza Selection
+Problem statement: Minimum Cost Pizza  SelectionSolved
 
 ---
 *Auto-committed via [GitDSA Extension](https://github.com)*
