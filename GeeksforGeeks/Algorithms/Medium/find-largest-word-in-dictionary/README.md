@@ -9,8 +9,8 @@
 
 ## Solutions
 
-### [solution2.java](./solution2.java)
-- **Language:** Java
+### [solution2.cpp](./solution2.cpp)
+- **Language:** C++
 - **Runtime:** N/A 
 - **Memory:** N/A 
 
