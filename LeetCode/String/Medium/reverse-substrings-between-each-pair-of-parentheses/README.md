@@ -9,10 +9,10 @@
 
 ## Solutions
 
-### [solution1.java](./solution1.java)
+### [solution2.java](./solution2.java)
 - **Language:** Java
 - **Runtime:** 3 ms 
-- **Memory:** 43 MB 
+- **Memory:** 42.6 MB 
 
 ---
 
