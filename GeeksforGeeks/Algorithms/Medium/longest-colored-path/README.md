@@ -9,8 +9,8 @@
 
 ## Solutions
 
-### [solution1.cpp](./solution1.cpp)
-- **Language:** C++
+### [solution1.py](./solution1.py)
+- **Language:** Python 3
 - **Runtime:** N/A 
 - **Memory:** N/A 
 
