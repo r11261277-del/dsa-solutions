@@ -9,10 +9,10 @@
 
 ## Solutions
 
-### [solution2.java](./solution2.java)
-- **Language:** Java
-- **Runtime:** 3 ms 
-- **Memory:** 42.6 MB 
+### [solution1.cpp](./solution1.cpp)
+- **Language:** C++
+- **Runtime:** 0 ms 
+- **Memory:** 8.6 MB 
 
 ---
 
