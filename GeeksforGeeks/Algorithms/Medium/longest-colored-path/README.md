@@ -9,7 +9,7 @@
 
 ## Solutions
 
-### [solution1.java](./solution1.java)
+### [solution2.java](./solution2.java)
 - **Language:** Java
 - **Runtime:** N/A 
 - **Memory:** N/A 
